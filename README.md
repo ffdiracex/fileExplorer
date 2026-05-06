@@ -28,9 +28,3 @@ file, it will open up a terminal window and you will
 be met with debug messages. You can decide the level
 of verbosity of these, and their details.
 
----- contributing ----
-do you also like python and want to make this project
-better, or to talk about ideas for the future of python,
-contact me on either discord: @user9993310, or on email:
-bashscripter123@gmail.com, I prefer discord, if you choose
-email then it can take a little longer time for me to reply.
