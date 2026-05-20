@@ -1,9 +1,6 @@
 '''
 Class representing the file hierarchy and properties about a file (s)
 '''
-#ifndef file_py LARP
-#define file_py LARP
-#pragma once LARP
 
 import os
 import stat
